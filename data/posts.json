@@ -1,1 +1,1403 @@
-{"updated": null, "count": 0, "categories": ["Technology","Snowflake CoWork","Migration & Modernization","Agentic Workflows & Cortex AI","Press","Data Governance & Optimization"], "posts": []}
+{
+ "updated": "2026-11-15T21:00:41+00:00",
+ "count": 143,
+ "categories": [
+  "Technology",
+  "Snowflake CoWork",
+  "Migration & Modernization",
+  "Agentic Workflows & Cortex AI",
+  "Press",
+  "Data Governance & Optimization"
+ ],
+ "posts": [
+  {
+   "url": "https://www.kipi.ai/insights/blog/streamlining-data-ingestion-mysql-to-snowflake-via-openflow-and-coco",
+   "title": "Streamlining Data Ingestion: MySQL to Snowflake via OpenFlow and CoCo  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6ab201ebcbe672135c81f6a6_streamlining-data-ingestion-mysql-snowflake-openflow-coco-3x2.png",
+   "date": "2026-11-12",
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/how-kipi-ai-reduced-dbt-cloud-costs-by-60-75-with-smarter-data-driven-execution",
+   "title": "How kipi.ai Reduced dbt Cloud Costs by 60–75% with Smarter, Data-Driven Execution  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aba6a22b2b37f4ee787da4e_dbt-cloud-cost-reduction-smarter-execution-3x2.png",
+   "date": "2026-11-11",
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/ai-driven-architecture-review-a-five-step-framework-using-cortex-code",
+   "title": "AI-Driven Architecture Review: A Five-Step Framework Using Cortex-Code  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6ab26eb023e967a91d01972e_ai-driven-architecture-review-cortex-code-3x2.png",
+   "date": "2026-11-11",
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/from-operational-change-to-snowflake-a-cdc-pattern-built-for-trust",
+   "title": "From Operational Change to Snowflake: A CDC Pattern Built for Trust  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aeb7799eb3f1f04ce849c12_6aeb77543129df6ca4966a95_kipi-blog-feature.jpeg",
+   "date": "2026-11-10",
+   "categories": [
+    "Agentic Workflows & Cortex AI",
+    "Data Governance & Optimization",
+    "Migration & Modernization",
+    "Press",
+    "Snowflake CoWork",
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-honored-with-brandon-hall-group-excellence-in-action-award-for-ld-innovation",
+   "title": "Kipi Honored with Brandon Hall Group Excellence in Action Award for L&D Innovation  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a6c05bdedbfc66dd2b2e90a_BLOG-POST-4.jpeg",
+   "date": "2026-02-11",
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-bi-announces-strategic-rebrand-to-kipi-ai-reinforces-commitment-to-data-science-and-data-solutions-on-snowflake-ai-data-cloud",
+   "title": "Kipi.bi Announces Strategic Rebrand to Kipi.ai: Reinforces Commitment to Data Science and Data Solutions on Snowflake AI Data Cloud  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": "2024-09-04",
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-achieves-100th-snowpro-advanced-certification-first-in-snowflake-partner-network-to-reach-milestone",
+   "title": "kipi.ai Achieves 100th SnowPro Advanced Certification, First in Snowflake Partner Network to Reach Milestone  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": "2024-05-02",
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-accelerates-momentum-reports-record-performance-team-expansion-data-science-investment",
+   "title": "kipi.ai Accelerates Momentum, Reports Record Performance, Team Expansion & Data Science Investment  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": "2024-04-09",
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-named-enterprise-partner-of-the-year-americas",
+   "title": "kipi.ai Named Enterprise Partner of the Year (Americas)  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": "2024-03-22",
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-achieves-matillion-platinum-partner-status-bolstering-data-innovation-and-collaboration",
+   "title": "kipi.ai Achieves Matillion Platinum Partner Status Bolstering Data Innovation and Collaboration  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8c740a2b3a236164a1f37a_Sample-1.png",
+   "date": "2023-12-08",
+   "categories": [
+    "Press"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-named-2026-snowflake-global-telecom-partner-of-the-year",
+   "title": "Kipi.ai Named 2026 Snowflake Global Telecom Partner of the Year  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a6c026dc0a93ee3bf01929b_Blog-Post-1.jpeg",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI",
+    "Data Governance & Optimization",
+    "Migration & Modernization",
+    "Press",
+    "Snowflake CoWork",
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/where-snowflake-coco-fits-in-a-modern-data-team",
+   "title": "Where Snowflake CoCo Fits in a Modern Data Team  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af21fede4f26bfc1fd44565_Supercharge%20Data%20Teams%20with%20CoCo-2.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/why-source-specific-cdc-design-matters",
+   "title": "Why Source-Specific CDC Design Matters  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8db3cb4a31eff31429f2b4_Blog-5.1.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/postgres-mirroring-in-snowflake-the-strategic-case-beyond-the-engineering-win",
+   "title": "Postgres Mirroring in Snowflake: The Strategic Case Beyond the Engineering Win  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a9031ac7f20487d39426551_postgres-mirroring-snowflake-strategic-case-3x2.png",
+   "date": null,
+   "categories": [
+    "Migration & Modernization"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/beyond-code-how-snowflake-coco-desktop-is-redefining-enterprise-innovation",
+   "title": "Beyond Code: How Snowflake CoCo Desktop Is Redefining Enterprise Innovation  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a7dd6e0f42246f75fe606e0_3d-render-modern-with-flowing-abstract-particle-design%20(1).jpg",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/from-files-and-messages-to-governed-snowflake-context",
+   "title": "From Files and Messages to Governed Snowflake Context  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a7b9ba7bba87be02141beac_3d-render-modern-technology-background-with-digital-particles-design.jpg",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/semantic-view-autopilot-from-data-questions-to-trusted-business-answers",
+   "title": "Semantic View Autopilot: From Data Questions to Trusted Business Answers  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a7e17be748b19d2d2496152_3416659%20(1).jpg",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/secure-saas-ingestion-into-snowflake-the-salesforce-pattern",
+   "title": "Secure SaaS Ingestion into Snowflake: The Salesforce Pattern  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a7e1abce147497a65046ca6_3857648%20(1).jpg",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflakes-new-aim-doesnt-just-convert-code-it-guides-the-journey",
+   "title": "Snowflake’s New AIM Doesn’t Just Convert Code.  It Guides the Journey.  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec0390bc8493ae6c6f144e_rewiring_enterprise_migration_3x2.png",
+   "date": null,
+   "categories": [
+    "Migration & Modernization"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/ai-assisted-delivery-still-needs-production-discipline",
+   "title": "AI-Assisted Delivery Still Needs Production Discipline  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a902c707e4ca88803d55d58_ai-assisted-delivery-production-discipline-3x2.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/what-cortex-code-changes-when-ai-assisted-data-engineering-meets-delivery-discipline",
+   "title": "What CoCo Changes When AI-Assisted Data Engineering Meets Delivery Discipline  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a6ca7332a8c780f2da3ac2f_thedigitalartist-ai-generated-8061342_1920.jpg",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/data-replication-for-postgres-cloud-using-openflow",
+   "title": "Data Replication for Postgres(Cloud) using OpenFlow  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8f29c04ee29291fedc3d60_data-replication-postgres-cloud-openflow-3x2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-summit-2026-the-agentic-enterprise-gets-real",
+   "title": "Snowflake Summit 2026: The Agentic Enterprise Gets Real  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a7e1cfd4a0276128f93493c_Snowflake%20Summit%20image%20(1).png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-postgres-sets-the-standard-for-production-ready-postgres",
+   "title": "Snowflake Postgres sets the standard for production-ready Postgres  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a6ca9268ebe7cacb64d798e_pexels-sejio402-6466141.jpg",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/moving-beyond-the-co-pilot-why-the-future-of-data-engineering-is-agentic",
+   "title": "Moving Beyond the Co-pilot: Why the Future of Data Engineering is Agentic  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a6caaa37642ced744d7a413_geralt-circuit-board-780316_1920.jpg",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/from-vision-to-execution-a-data-leaders-guide-to-snowflake-cortex-code",
+   "title": "From Vision to Execution: A Data Leader's Guide to Snowflake Cortex Code  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a6cab824b87eb63ca6f7793_thedigitalartist-ai-generated-8437633_1920.jpg",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-intelligence-a-new-era-of-conversational-data-access",
+   "title": "Snowflake Intelligence: A New Era of Conversational Data Access  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af373a344e6a597beec4c6c_Speak%20Plainly%20to%20Your%20Data-2.png",
+   "date": null,
+   "categories": [
+    "Snowflake CoWork"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/modernizing-insurance-data-foundations-with-snowflake-webinar-recap-with-kipi-and-snowflake",
+   "title": "Modernizing Insurance Data Foundations with Snowflake:  Webinar Recap with Kipi and Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3663e8bd2a0c3c109e96c_Smarter%20Insurance%2C%20Powered%20by%20Snowflake-2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/automating-data-governance-with-snowflakes-sensitive-data-classification",
+   "title": "Automating Data Governance with Snowflake's Sensitive Data Classification  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-delivers-marketing-mix-modeling-and-analytics-app-on-snowflake-ai-data-cloud-2",
+   "title": "Kipi.ai Delivers Marketing Mix Modeling and Analytics App on Snowflake AI Data Cloud  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/4-steps-to-predict-and-improve-insurance-retention-with-snowflake-and-guidewire",
+   "title": "4 Steps to Predict and Improve Insurance Retention with Snowflake and Guidewire  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/why-your-enterprise-data-needs-an-ai-agent-how-snowflake-cortex-agents-are-changing-the-game",
+   "title": "Why Your Enterprise Data Needs an AI Agent : How Snowflake Cortex Agents Are Changing the Game  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/sub-second-inference-on-snowflake-real-time-recommendations-powered-by-snowflake-ml-and-snowpark-container-services",
+   "title": "Sub-Second Inference on Snowflake: Real-Time Recommendations Powered by Snowflake ML and Snowpark Container Services  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af37480778dc211261cedb8_Real-Time%20AI%20Recommendations%20Dashboard-2.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/harnessing-snowflake-snapshots-for-data-versioning-and-historical-analysis",
+   "title": "Harnessing Snowflake Snapshots for Data Versioning and Historical Analysis  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlocking-hidden-recovery-dollars-predictive-subrogation-with-snowflake-and-machine-learning",
+   "title": "Unlocking Hidden Recovery Dollars: Predictive Subrogation with Snowflake and Machine Learning  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/from-images-to-insight-in-snowflake-a-hands-on-snowflake-cortex-complete-multimodal-poc",
+   "title": "From Images to Insight in Snowflake: A Hands-On Snowflake Cortex COMPLETE Multimodal POC  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3454645ea033befafaa0d_Visual_Intelligence_Snowflake_Correct_Logo_3x2.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-and-snowflake-revolutionizing-google-analytics-with-plug-and-play-analytics",
+   "title": "Kipi.ai and Snowflake: Revolutionizing Google Analytics with Plug-and-Play Analytics  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3462d171d19a697495dba_Supercharge%20Google%20Analytics%20in%20Snowflake-2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/faster-total-loss-identification-in-insurance-how-ml-and-snowflake-drive-real-business-value",
+   "title": "Faster Total Loss Identification in Insurance: How ML and Snowflake Drive Real Business Value  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3433954fbd8ccccfaa53a_AI-Powered%20Total%20Loss%20Claims-2.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/mastering-data-governance-with-snowflake-data-lineage",
+   "title": "Mastering Data Governance with Snowflake Data Lineage  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af363245b8a62b83f86dc7c_Seamless%20Data%20Pipeline%20Analytics%20Banner-2.png",
+   "date": null,
+   "categories": [
+    "Data Governance & Optimization"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/semantic-modeling-in-snowflake-powering-conversational-analytics-at-scale",
+   "title": "Semantic Modeling in Snowflake: Powering Conversational Analytics at Scale  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af371ffd3030bad8cdb2cb3_Futuristic%20Snowflake%20Conversational%20Analytics-2.png",
+   "date": null,
+   "categories": [
+    "Snowflake CoWork"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/insurance-innovated-how-insurance-companies-are-breaking-down-data-silos-without-breaking-their-systems",
+   "title": "Insurance Innovated: How Insurance Companies Are Breaking Down Data Silos Without Breaking Their Systems  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/supercharging-insurance-growth-with-snowflake-how-to-target-the-right-properties-and-people-with-precision",
+   "title": "Supercharging Insurance Growth with Snowflake: How to Target the Right Properties and People with Precision  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3755a9e5300cc8052e604_Neon%20Precision%20Targeting%20for%20Insurance%20Growth-2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/the-future-of-procurement-is-here-how-agentic-ai-on-snowflake-is-transforming-every-step-from-prediction-to-payment",
+   "title": "The Future of Procurement Is Here: How Agentic AI on Snowflake Is Transforming Every Step from Prediction to Payment  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3763d946e6114b6b2cc23_Neon%20Autonomous%20Procurement%20with%20Snowflake-2.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/retail-re-imagined-ask-and-you-shall-find-the-power-of-natural-language-insights",
+   "title": "Retail Re-Imagined: Ask and You Shall Find — The Power of Natural Language Insights  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/from-data-to-description-reimagining-product-content-with-ai",
+   "title": "From Data to Description: Reimagining Product Content with AI  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlocking-the-value-of-unstructured-enterprise-content-using-snowflake-and-openflow",
+   "title": "Unlocking the Value of Unstructured Enterprise Content Using Snowflake and Openflow  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af37a14946e6114b6b4e5e8_Kipi.ai%20Document%20Intelligence%20Flow-2.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/retail-re-imagined-how-to-drive-your-business-with-input-metrics",
+   "title": "Retail Re-Imagined: How to drive your business with input metrics  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af36fd6f98e500739239ea8_Neon%20Retail%20Analytics%20Transformation-2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/retail-re-imagined-four-ways-retailers-are-using-ai-to-boost-profitability",
+   "title": "Retail Re-Imagined: Four Ways Retailers Are Using AI To Boost Profitability  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/optimizing-cost-attribution-in-snowflake-a-chargeback-model-guide",
+   "title": "Optimizing Cost Attribution in Snowflake: A Chargeback Model Guide  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3694b89b1065a0ecd7460_Neon%20Snowflake%20Cost%20Control%20Dashboard-2.png",
+   "date": null,
+   "categories": [
+    "Data Governance & Optimization"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/precision-pricing-a-data-driven-response-to-margin-pressure-in-retail",
+   "title": "Precision Pricing: A Data-Driven Response to Margin Pressure in Retail  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af36a10e781cd3fa3ff9aad_Neon%20AI-Powered%20Retail%20Margins-2.png",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/turning-customer-data-into-business-results",
+   "title": "Retail Re-Imagined: Turning Customer Data into Business Results  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/retail-re-imagined-listening-to-your-customers-is-a-data-strategy",
+   "title": "Retail Re-Imagined: Listening to Your Customers Is a Data Strategy  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/modern-ai-ready-data-integration-with-snowflake-openflow",
+   "title": "Modern, AI-ready Data Integration with Snowflake Openflow  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af364e3c6fd1e77aa35091f_Neon%20Openflow%20Data%20Pipeline%20Banner-2.png",
+   "date": null,
+   "categories": [
+    "Migration & Modernization"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/beyond-dashboards-how-snowflake-intelligence-lets-your-data-talk-back",
+   "title": "Beyond Dashboards : How Snowflake Intelligence Lets Your Data Talk Back  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/navigating-the-new-tariff-shock-a-retail-executives-playbook-for-strategic-response",
+   "title": "Navigating the New Tariff Shock: A Retail Executive's Playbook for Strategic Response  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3682a31d8a62ee3efa277_Beat%20Tariff%20Shocks%20With%20Data-2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/the-generative-ai-revolution-why-businesses-must-embrace-the-next-frontier",
+   "title": "The Generative AI Revolution: Why Businesses Must Embrace the Next Frontier  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/running-externally-trained-models-in-snowflake-using-model-serving-in-snowpark-container-services",
+   "title": "Using Snowflake Model Registry and Model Serving for Inferencing on Snowpark Container Services  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af37b6ad283fb344562ad13_Scale%20GPU%20Inference%20in%20Snowflake-2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/the-smart-factory-revolution-transforming-manufacturing-with-industry-4-0",
+   "title": "The Smart Factory Revolution: Transforming Manufacturing with Industry 4.0  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af37725ef1ec543c25fcf20_Smarter%20Factories%20with%20Data-2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlocking-the-power-of-marketing-mix-modeling-with-snowpark",
+   "title": "Unlocking the Power of Marketing Mix Modeling with Snowpark  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af378996c527e7821c10a7c_Maximize%20Marketing%20ROI%20with%20Snowpark-2%20(1).png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/breaking-new-ground-in-healthcare-engineering-the-future-of-genomic-data",
+   "title": "Breaking New Ground in Healthcare: Engineering the Future of Genomic Data  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec16273f94ca3f3878f59c_genomic_data_pipelines_3x2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/breaking-new-ground-on-healthcare-a-developers-blueprint-for-genomic-data-integration",
+   "title": "Breaking New Ground on Healthcare: A Developer's Blueprint for Genomic Data Integration  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec1652bc8493ae6c741e29_connecting_genomics_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/breaking-new-ground-in-healthcare-streamlining-genomic-operations-with-fhir",
+   "title": "Breaking New Ground in Healthcare: Streamlining Genomic Operations with FHIR  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6af3419cc6d528dd5678d82e_Neon%20FHIR%20Precision%20Medicine%20Banner-2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/from-reactive-to-proactive-how-predictive-maintenance-is-revolutionizing-operations",
+   "title": "From Reactive to Proactive: How Predictive Maintenance is Revolutionizing Operations  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ais-watchkeeper-suite-the-neighborhood-watch-of-your-snowflake-environment",
+   "title": "Kipi.ai's Watchkeeper Suite: The Neighborhood Watch of Your Snowflake Environment  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/explore-kipi-ais-service-compass-discovery-module",
+   "title": "Explore Kipi.ai's Service Compass Discovery Module  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec1928386dc0ad4703dcf0_unlock_visibility_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/the-ultimate-guide-to-service-compass-unlocking-the-power-to-snowflake-management",
+   "title": "The Ultimate Guide to Service Compass: Unlocking the Power to Snowflake Management  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/sedgwicks-data-driven-evolution-in-claims-management-with-kipi-ai-and-snowflake",
+   "title": "Sedgwick's Data-Driven Evolution in Claims Management with Kipi.ai and Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/transforming-retail-with-ai-how-aapya-solutions-and-snowflake-are-redefining-inventory-management",
+   "title": "Transforming Retail with AI: How Aapya Solutions and Snowflake are Redefining Inventory Management  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlocking-the-power-of-ml-with-ml-insights-xplorer-mix",
+   "title": "Unlocking the Power of ML with ML Insights Xplorer (MIX)  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8d9d98561058ed9fc54782_Sample7.1.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/combating-healthcare-fraud-with-autoencoder-gmm-anomaly-detection",
+   "title": "Combating Healthcare Fraud with Autoencoder + GMM Anomaly Detection  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec1743bd32a0ab7ee6bdfb_master_snowflake_cloud_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/enhancing-customer-retention-with-a-three-model-approach",
+   "title": "Enhancing Customer Retention with a Three-Model Approach  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec4f79f9b56966fe15c9dd_loyalty_predictive_analytics_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/enhancing-workplace-safety-in-manufacturing-the-power-of-predictive-analytics-and-data-driven-strategies",
+   "title": "Enhancing Workplace Safety in Manufacturing: The Power of Predictive Analytics and Data-driven Strategies  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/efficiently-manage-ml-models-with-snowflake-model-registry",
+   "title": "Efficiently Manage ML Models with Snowflake Model Registry  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8d96cc8a319236393ff76a_Sample-6.1.png",
+   "date": null,
+   "categories": [
+    "Migration & Modernization"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/enhancing-data-operations-with-snowflake-git-integration",
+   "title": "Enhancing Data Operations with Snowflake Git Integration  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec524ba460b60067192762_sync_code_snowflake_3x2%20(2).png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/optimizing-data-transformation-with-dynamic-tables-in-snowflake",
+   "title": "Optimizing Data Transformation with Dynamic Tables in Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec70aa6e195f7a8960d190_automate_snowflake_pipelines_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-life-sciences-clinical-trial-analytics-system",
+   "title": "Kipi Life Sciences – Clinical Trial Analytics System  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/defect-detection-in-manufacturig",
+   "title": "Defect Detection in Manufacturing  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/predictive-maintenance-in-manufacturing-using-snowflake",
+   "title": "Predictive Maintenance in Manufacturing Using Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/manual-content-extractor-for-employee-training",
+   "title": "Manual Content Extractor for Employee Training  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/navigating-custom-data-classification-in-snowflake",
+   "title": "Navigating Custom Data Classification in Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec7268840a0575664c5551_secure_sensitive_data_3x2%20(1).png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/exploring-snowflake-dynamic-tables-a-modern-approach-to-data-management",
+   "title": "Exploring Snowflake Dynamic Tables: A Modern Approach to Data Management  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/efficient-raid-management-in-kipi-streamlining-project-accountability",
+   "title": "Efficient RAID Management in Kipi: Streamlining Project Accountability  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8d8ed96e53465ab41bc2fc_Sample-5.1.png",
+   "date": null,
+   "categories": [
+    "Migration & Modernization"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-data-utils-dataedit",
+   "title": "Kipi Data Utils: DataEdit  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-data-utils-dynamic-json-flattener-application-part-2-16mb-handler",
+   "title": "Kipi Data Utils : Dynamic JSON Flattener Application – Part 2 : 16MB+ handler  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/ensuring-excellence-how-kipi-ais-game-changing-qg-framework-sets-the-gold-standard",
+   "title": "Ensuring Excellence: How Kipi.ai's Game-Changing QG Framework Sets the Gold Standard  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/advancing-environmental-sustainability-through-data-driven-solutions",
+   "title": "Advancing Environmental Sustainability Through Data-Driven Solutions  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec796e9a36b9c92837d2e5_kipi_banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflakes-anomaly-detection-enhancing-financial-services-with-advanced-analytics",
+   "title": "Snowflake's Anomaly Detection: Enhancing Financial Services with Advanced Analytics  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec80e6c193ced6acd229f1_financial_fraud_banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflakes-contribution-explorer-unlocking-insights-for-financial-services",
+   "title": "Snowflake's Contribution Explorer: Unlocking Insights for Financial Services  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec828ed1a0f3bf35e96ca2_pinpoint_financial_growth_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlock-efficiency-and-insights-with-snowflakes-document-ai",
+   "title": "Unlock Efficiency and Insights with Snowflake's Document AI  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/addressing-account-churn-and-customer-segmentation-in-financial-services-with-snowflake-cortexs-classification-ml-function",
+   "title": "Addressing Account Churn and Customer Segmentation in Financial Services with Snowflake Cortex's Classification ML Function  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/leveraging-llms-in-retail-banking-on-snowflake-using-snowflake-cortex-unleashing-business-value",
+   "title": "Leveraging LLMs in Retail Banking on Snowflake Using Snowflake Cortex: Unleashing Business Value  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/promise-of-llms-in-trial-patient-matching",
+   "title": "Promise of LLMs in Trial-Patient Matching  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/enhancing-underwriting-with-ai-a-deep-dive-into-our-snowflake-cortex-powered-ai-assistant",
+   "title": "Enhancing Underwriting with AI: A Deep Dive into Our Snowflake Cortex-Powered AI Assistant  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec84b09fadad0b75cf08ff_accelerate_underwriting_ai_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/geospatial-tools-transforming-property-insurance-operations",
+   "title": "Geospatial Tools: Transforming Property Insurance Operations  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/revolutionizing-property-insurance-with-real-time-weather-data-integration",
+   "title": "Revolutionizing Property Insurance with Real-Time Weather Data Integration  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/banks-and-fiserv-leveraging-snowflakes-secure-data-share-for-seamless-data-insights",
+   "title": "Banks and Fiserv: Leveraging Snowflake's Secure Data Share for Seamless Data Insights  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/implementing-customer-360-for-retail-banking-on-snowflake",
+   "title": "Implementing Customer 360 for Retail Banking on Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec87d6840a0575665941ca_retail_banking_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-trust-center-a-framework-for-security-compliance",
+   "title": "Snowflake Trust Center: A Framework for Security Compliance  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlocking-the-power-of-customer-360-in-retail",
+   "title": "Unlocking the Power of Customer 360 in Retail  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/retail-resilience-leveraging-data-to-thrive-amidst-change",
+   "title": "Retail Resilience: Leveraging Data to Thrive Amidst Change  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec94b7a6c173fd5d5ca148_power_modern_retail_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/marketing-mix-modeling-demo",
+   "title": "Marketing Mix Modeling Demo  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-cortex-revolutionizing-data-analysis-with-ml-powered-functions",
+   "title": "Snowflake Cortex: Revolutionizing Data Analysis with ML-Powered Functions  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/clinical-trial-recruitment-and-ai",
+   "title": "Clinical Trial Recruitment and AI  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec973b29c573fc9467bf75_trial_recruitment_ai_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/llm-a-game-changer-in-retail",
+   "title": "LLMs – A Game Changer in Retail  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/product-content-generation-demo",
+   "title": "Product Content Generation Demo  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-document-ai",
+   "title": "Snowflake Document AI  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec990dfaadf68fb652059e_unstructured_documents_into_data_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/progressive-data-modeling",
+   "title": "Progressive Data Modeling  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec9ab54789405ba6385889_accelerate_analytics_agile_modeling_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/exploring-data-metric-functions-in-snowflake",
+   "title": "Exploring Data Metric Functions in Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-iceberg-tables-the-evolution-of-data-storage",
+   "title": "Snowflake Iceberg Tables – The Evolution of Data Storage  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecb4cb516566884d3a3f58_open_data_lakes_meet_snowflake_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-cortex-a-deep-dive-into-llm-functions",
+   "title": "Snowflake Cortex: A Deep Dive into LLM Functions  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aec9cc517cf44c8114dfa4c_accelerate_analytics_agile_modeling_v2_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-data-utils-dynamic-json-flattener",
+   "title": "Kipi Data Utils Dynamic JSON Flattener  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/transforming-property-casualty-insurance-analytics-streamlined-insights-for-informed-decisions",
+   "title": "Transforming Property Casualty Insurance Analytics: Streamlined Insights for Informed Decisions  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecb5d6f6173b15dc7d81e4_smarter_insurance_decisions_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-named-snowflake-data-cloud-services-americas-innovation-partner-of-the-year",
+   "title": "kipi.ai Named Snowflake Data Cloud Services Americas Innovation Partner of the Year  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/navigating-the-challenges-of-risk-aggregation-in-insurance-with-snowflake-and-streamlit",
+   "title": "Navigating the Challenges of Risk Aggregation in Insurance with Snowflake and Streamlit  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecb9c74fabd6d085c67c7a_Insurance_Risk_Banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/revolutionize-risk-management-with-real-time-exposure-impact-analysis-on-snowflake-marketplace",
+   "title": "Revolutionize Risk Management with Real-Time Exposure Impact Analysis on Snowflake Marketplace  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/smart-access-control-in-snowflake",
+   "title": "Smart Access Control in Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unraveling-semi-structured-data-with-snowflake",
+   "title": "Unraveling Semi-Structured Data with Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/transforming-healthcare-data-management-a-deep-dive-into-fhir-integration-apps-on-snowflake-marketplace",
+   "title": "Transforming Healthcare Data Management: A Deep Dive into FHIR Integration Apps on Snowflake Marketplace  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecbb3df5d5f6727dcb1eef_Healthcare_FHIR_Banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/create-rca-on-service-now-data-in-snowflake-with-containerized-llm",
+   "title": "Create RCA on Service Now Data In Snowflake With Containerized LLM  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/exploring-synthetic-datahub-fhir-data-generator-for-healthcare-2",
+   "title": "Exploring Synthetic DataHub – FHIR Data Generator for Healthcare  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unleashing-the-power-of-unstructured-data-in-shared-outlook-inboxes",
+   "title": "Unleashing the Power of Unstructured Data in Shared Outlook Inboxes  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/snowflake-copilot-and-data-analytics",
+   "title": "Snowflake Copilot and Data Analytics  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecbcefed33f80d06860d45_SQL_AI_Banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-life-science-datahub-clinical-llm",
+   "title": "Kipi Life Science DataHub – Clinical LLM  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecbe242275c74d8e5888a5_Healthcare_Text_Insights_Banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unleashing-efficiency-revolutionizing-smart-meter-data-analytics-with-snowflake-data-cloud",
+   "title": "Unleashing Efficiency: Revolutionizing Smart Meter Data Analytics with Snowflake Data Cloud  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlocking-the-power-of-snowpark-for-python-accelerating-financial-analytics",
+   "title": "Unlocking the Power of Snowpark for Python: Accelerating Financial Analytics  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlocking-seamless-data-sharing-with-snowflakes-secure-data-share-feature",
+   "title": "Unlocking Seamless Data Sharing with Snowflake's Secure Data Share Feature  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/exploring-synthetic-datahub-fhir-data-generator-for-healthcare",
+   "title": "Data without Limits: Exploring Synthetic DataHub – FHIR Generator for Healthcare  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/driving-efficiency-real-time-fleet-management-with-snowflake-native-features",
+   "title": "Driving Efficiency: Real-time Fleet Management with Snowflake Native Features  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/kipi-ai-announces-strategic-alliance-with-dataiku-to-offer-advanced-analytics-with-snowflake",
+   "title": "kipi.ai announces Strategic Alliance with Dataiku to Offer Advanced Analytics with Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/leveraging-snowpark-for-fhir-data-app",
+   "title": "Leveraging Snowpark for FHIR Data App  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecbf60f6173b15dc834f2f_Snowpark_Healthcare_Banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/governance-redefined-a-metadata-centric-approach-to-development",
+   "title": "Governance Redefined: A Metadata-Centric Approach to Development  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecc0877b6b69941d9fea78_Metadata_Modernization_Banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/microsoft-dataverse-connection-with-snowflake-using-matillion",
+   "title": "Microsoft Dataverse Connection with Snowflake Using Matillion  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/longterm-archival-strategy-for-snowflake-considerations",
+   "title": "Longterm Archival Strategy for Snowflake – Considerations  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/modern-data-stack-an-introduction",
+   "title": "Modern Data Stack – An Introduction  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecc195685d6fcf17c55259_Cloud_Architecture_Banner_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/so-you-just-heard-about-snowflake",
+   "title": "So You Just Heard About Snowflake, Now What?  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6aecc3bd6e33f8b0985e9b5d_Snowflake_Beyond_Warehousing_3x2.png",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/data-sharing-patterns-in-snowflake",
+   "title": "Data Sharing Patterns in Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": null,
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/unlocking-the-power-of-snowpark-pandas-api-for-data-analytics",
+   "title": "Unlocking the Power of Snowpark Pandas API for Data Analytics  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8c7a5bf0d5c9fa8dc1bb1d_sample4.1.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/data-ingestion-with-snowflake-and-fivetran",
+   "title": "Data Ingestion with Snowflake and Fivetran  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a7e17be748b19d2d2496152_3416659%20(1).jpg",
+   "date": null,
+   "categories": [
+    "Migration & Modernization"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/working-with-snowflake-listings-marketplace",
+   "title": "Working with Snowflake Listings (Marketplace)  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8c77245623707f843e09c0_sample3.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/when-your-dbt-pipeline-costs-more-than-it-should",
+   "title": "When Your dbt Pipeline Costs More Than It Should  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a902887453d88fb5d46f46a_dbt-pipeline-costs-3x2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/breaking-the-data-silo-how-we-built-a-secure-ai-driven-postgresql-to-snowflake-cdc-pipeline",
+   "title": "Breaking the Data Silo: How We Built a Secure, AI-Driven PostgreSQL to Snowflake CDC Pipeline   - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a8f23b5b52aab933d277744_breaking-data-silo-3x2.png",
+   "date": null,
+   "categories": [
+    "Technology"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/when-ai-extraction-isnt-enough-how-intelligent-section-extraction-transforms-financial-document-processing-in-wealth-management",
+   "title": "When AI Extraction Isn't Enough: How Intelligent Section Extraction Transforms Financial Document Processing in Wealth Management  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a7dd66a0c9172226e655da5_connecting-lines-dots-with-floating-particles%20(1).jpg",
+   "date": null,
+   "categories": [
+    "Agentic Workflows & Cortex AI"
+   ],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  },
+  {
+   "url": "https://www.kipi.ai/insights/blog/how-ai-agents-unlock-a-smarter-procure-to-pay-cycle-with-sap-and-snowflake",
+   "title": "How AI Agents Unlock a Smarter Procure-to-Pay Cycle with SAP and Snowflake  - Agentflow - Webflow HTML Website Template",
+   "description": null,
+   "image": "https://cdn.prod.website-files.com/6a68940c197ed23f9936d72b/6a6cb376ea7acc810517d0fa_abstract-background-with-connecting-dots-lines_optimized_4.jpg",
+   "date": null,
+   "categories": [],
+   "first_seen": "2026-11-15T20:57:11+00:00"
+  }
+ ]
+}
